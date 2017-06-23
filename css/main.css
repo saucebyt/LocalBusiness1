@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Khula');
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+nav {
+  background-color: #262728;
+}
+
+
+html, body {
+  color: black;
+  font-family: "sans-serif", Oswald;
+  background-color: #f2f2f2;
+  margin: 0;
+
+}
+
+.try1 {
+  background-color: #362e4c;
+}
+
+
+.jedi {
+  filter: none;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  display: table;
+  top: 0;
+  background-size: cover;
+  background-image: url('http://orig10.deviantart.net/01dc/f/2015/322/2/e/hamburgtime_1920x1080_by_duckfarm-d9h57ox.jpg');
+  max-width: none;
+}
+
+
+.lander {
+  display: inline-block;
+  vertical-align: center;
+  width: 100%;
+  max-width: none;
+  height: 100vh;
+
+}
+
+
+.plan1{
+  margin: auto;
+  padding: 10px;
+  border: 1px black;
+  display: inline-block;
+
+}
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+#about {
+  color: black;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 145%;
+}
+
+#contact {
+  padding: 1%;
+  margin: 1%;
+  display: inline-table;
+  text-align: justify;
+}
+
+fieldset {
+  margin: 1%;
+  padding: 1%;
+}
+.social {
+  display: inline-block;
+  text-align: center;
+  color: black;
+  margin: 1%;
+  padding: 1%;
+
+}
+/*
+these are the new google font css properties.
+font-family: 'Khula', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;*/

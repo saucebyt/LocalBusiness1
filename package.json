@@ -1,0 +1,23 @@
+{
+  "name": "marshallpark",
+  "version": "1.0.0",
+  "description": "CSRA Paintball",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucebyt/MarshallPark.git"
+  },
+  "keywords": [
+    "Static",
+    "Business"
+  ],
+  "author": "Tristan Simpson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saucebyt/MarshallPark/issues"
+  },
+  "homepage": "https://github.com/saucebyt/MarshallPark#readme"
+}
